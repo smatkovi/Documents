@@ -1,0 +1,2 @@
+This is dvipng 1.14 Copyright 2002-2010 Jan-Ake Larsson
+[1] 

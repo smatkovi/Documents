@@ -1,0 +1,13 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016/Debian) (preloaded format=latex)
+ restricted \write18 enabled.
+entering extended mode
+(./tmp.tex
+LaTeX2e <2017/01/01> patch level 3
+Babel <3.9r> and hyphenation patterns for 3 language(s) loaded.
+(/usr/share/texlive/texmf-dist/tex/latex/base/article.cls
+Document Class: article 2014/09/29 v1.4h Standard LaTeX document class
+(/usr/share/texlive/texmf-dist/tex/latex/base/size12.clo))
+No file tmp.aux.
+[1] (./tmp.aux) )
+Output written on tmp.dvi (1 page, 488 bytes).
+Transcript written on tmp.log.
