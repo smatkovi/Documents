@@ -1,3 +1,3 @@
 git add *.db
-git commit -m "uf"
+git commit -m "foobar"
 git push
