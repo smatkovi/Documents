@@ -1,1 +1,1 @@
-cd ~/Documents ; git pull ; harbour-nemosyne ; ~/Documents/pushfkdb.sh
+cd /home/nemo/Documents ; git pull ; harbour-nemosyne ; /home/nemo/Documents/pushfkdb.sh
