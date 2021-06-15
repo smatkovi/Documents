@@ -1,0 +1,6 @@
+[Desktop Entry]
+Type=Application
+Name=nemosyneWs
+Exec=fingerterm -e "/home/nemo/Documents/ns"
+Icon=harbour-nemosyne
+X-Nemo-Single-Instance=no
